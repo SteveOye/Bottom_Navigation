@@ -1,10 +1,8 @@
-# kubuta
+# Bottom Navigation (Flutter)
 
-Waste Disposal App
+Sample code showing how to implement material design bottom navigation in flutter/
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
